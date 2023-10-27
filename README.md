@@ -23,6 +23,9 @@ In this project, I used Python to analyze the data. Key steps like:
 
 - `analysis`: Python code through my analysis.
 - `visualizations`: Power BI report file for the visualizations.
+   1. Click on the 'sales_data_report.pbix' file in this repository.
+   2. Download the file by clicking the "Download" button.
+   3. Open the downloaded file using Power BI Desktop.
 - `data`: The sales data  I used for the analysis.
 - `README.md`: The file you're currently reading.
 
