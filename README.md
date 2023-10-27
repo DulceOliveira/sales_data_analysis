@@ -19,8 +19,6 @@ In this project, I used Python to analyze the data. Key steps like:
 - Exploring sales trends over time, including monthly and hourly patterns.
 - Visualizations (Power BI):
 
-The project's primary focus is on the analysis of sales data to derive actionable insights. By combining Python for data analysis and Power BI for visualization, it provides a comprehensive solution for understanding and leveraging sales data to enhance business performance.
-
 ## Repository Contents
 
 - `analysis`: Python code through my analysis.
